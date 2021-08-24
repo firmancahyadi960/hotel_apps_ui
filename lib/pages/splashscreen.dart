@@ -37,13 +37,13 @@ class _SplashScreenState extends State<SplashScreen> {
             Center(
               child: Padding(
                 padding: EdgeInsets.only(
-                  top: 250,
+                  top: 330,
                   right: 24,
                   left: 24,
                 ),
                 child: Image.asset(
-                  "assets/images/Logo.jpg",
-                  scale: 5,
+                  "assets/images/Logo.png",
+                  scale: 1,
                 ),
               ),
             ),
